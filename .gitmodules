@@ -4,7 +4,7 @@
 	branch = HEAD
 [submodule "ChangePointTaylor"]
 	path = ChangePointTaylor
-	url = https://github.com/cran/ChangePointTaylor
+	url = https://github.com/mmarks13/changepointtaylor
 [submodule "abnormality"]
 	path = abnormality
 	url = https://github.com/mmarks13/abnormality
